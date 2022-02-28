@@ -3,7 +3,7 @@
 - shoudl not have it veering too far away from normal language...
 - decide on the stack ... if the current monolith is a good idea,, since it could maybe need an engine embedded which makes everything complicated.. is quickjs good enough.. 
 - decide on how to do the formats - this why the src structure will be efficient. 
-- decide on ejs and engine or just low level.. < problem here is the deps... kinda need something quite ridiculous but works... 
+- decide on ejs and engine or just low level.. < problem here is the deps... kinda need something quite ridiculous but works... also fun and maybe a previous much simpler version. 
 - the structure is right: buckets and processors its brutally simple.. things into machines ( in scripting this would be easier ) 
 - teh way it should optimise common tasks using machines is interesting :) < creates a lot of problems..  for now it just uses precompiled ones i think.. 
 - scripting has advantages now < more people to help out
