@@ -6,7 +6,7 @@
 - decide on ejs and engine or just low level.. < problem here is the deps... kinda need something quite ridiculous but works... 
 - the structure is right: buckets and processors its brutally simple.. things into machines ( in scripting this would be easier ) 
 - teh way it should optimise common tasks using machines is interesting :) < creates a lot of problems..  for now it just uses precompiled ones i think.. 
-- scripting has advantages now < more people to have out
+- scripting has advantages now < more people to help out
 - scripting means nasty libary deps though < people prefer small parts when its difficult
 - need to use as much existing stuff as possible
 - decide on basic working version - then the fancy super stuff
