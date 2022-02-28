@@ -11,4 +11,5 @@
 - need to use as much existing stuff as possible
 - decide on basic working version - then the fancy super stuff
 todo
-- change to `lib/builtin/lib` 
+- change to `lib/builtin/lib` or `lib/inc/lib/` < usually i prefer def or default... not sure on better word///
+- we shoudl decide since it will include a few handy things.. 
