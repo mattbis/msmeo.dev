@@ -1,0 +1,3 @@
+- these are now the location of the profiles that control the artefact... 
+
+the default ones that become a release.. and basically how it works
