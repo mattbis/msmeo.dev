@@ -13,3 +13,5 @@
 todo
 - change to `lib/builtin/lib` or `lib/bti/lib/` < usually i prefer def or default... not sure on better word///
 - we shoudl decide since it will include a few handy things.. 
+lang
+- the choice now is I need to do a .research project to figure out the best ecosystem before I do anything else.. 
