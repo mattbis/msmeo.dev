@@ -1,0 +1,3 @@
+#### slowdown 
+- quite a bit of what i created before was just an ideal and the machinations around kernel and os are annoying.. 
+- shoudl not have it veering too far away from normal language...
