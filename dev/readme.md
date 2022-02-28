@@ -10,3 +10,5 @@
 - scripting means nasty libary deps though < people prefer small parts when its difficult
 - need to use as much existing stuff as possible
 - decide on basic working version - then the fancy super stuff
+todo
+- change to `lib/builtin/lib` 
