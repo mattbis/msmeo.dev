@@ -4,3 +4,4 @@
 - decide on the stack ... if the current monolith is a good idea,, since it could maybe need an engine embedded which makes everything complicated.. 
 - decide on how to do the formats - this why the src structure will be efficient. 
 - decide on ejs and engine or just low level.. < problem here is the deps... kinda need something quite ridiculous but works... 
+- the structure is right: buckets and processors its brutally simple.. 
