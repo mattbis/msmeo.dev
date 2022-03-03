@@ -2,6 +2,7 @@
 - modification to ecmascript
 - what we dont need.. 
 #### slowdown 
+- the initial path means it could actually work quite basically.. per path .. 
 - quite a bit of what i created before was just an ideal and the machinations around kernel and os are annoying..  it should be possible to set this up quite easy i think.. once enough friendly and cool stuff is added to make it worht dedicating an old machine too
 - shoudl not have it veering too far away from normal language...
 - decide on the stack ... if the current monolith is a good idea,, since it could maybe need an engine embedded which makes everything complicated.. is quickjs good enough.. 
