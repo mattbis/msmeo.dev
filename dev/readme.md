@@ -4,7 +4,7 @@
 - we only use what we need... the core e/ system and proc/ lib/ discludes... code and is not ecosystem style. green as possible.
 #### slowdown 
 - the initial path means it could actually work quite basically.. per path .. 
-- quite a bit of what i created before was just an ideal and the machinations around kernel and os are annoying..  it should be possible to set this up quite easy i think.. once enough friendly and cool stuff is added to make it worht dedicating an old machine too ( that is okay for usage; since some of this tool usage is like a sister into the content )
+- quite a bit of what i created before was just an ideal and the machinations around kernel and os are annoying..  it should be possible to set this up quite easy i think.. once enough friendly and cool stuff is added to make it worht dedicating an old machine too ( that is okay -green wise ; since some of this tool usage is like a sister into the content )
 - shoudl not have it veering too far away from normal language...
 - decide on the stack ... if the current monolith is a good idea,, since it could maybe need an engine embedded which makes everything complicated.. is quickjs good enough.. 
 - decide on how to do the formats - this why the src structure will be efficient. 
