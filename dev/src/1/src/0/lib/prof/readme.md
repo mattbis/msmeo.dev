@@ -1,3 +1,3 @@
 - these are now the location of the profiles that control the artefact... 
 
-the default ones that become a release.. and basically how it works
+the default ones that become a release.. and basically how it works; you can get a version to custom to compile: or set this anyway from cli.. everything is arg.. 
