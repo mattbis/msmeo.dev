@@ -1,3 +1,6 @@
+#### spikes
+- modification to ecmascript
+- what we dont need.. 
 #### slowdown 
 - quite a bit of what i created before was just an ideal and the machinations around kernel and os are annoying..  it should be possible to set this up quite easy i think.. once enough friendly and cool stuff is added to make it worht dedicating an old machine too
 - shoudl not have it veering too far away from normal language...
