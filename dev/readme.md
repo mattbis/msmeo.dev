@@ -1,6 +1,7 @@
 #### spikes
 - modification to ecmascript
 - what we dont need.. 
+- we only use what we need... the core e/ system and proc/ lib/ discludes... code and is not ecosystem style. green as possible.
 #### slowdown 
 - the initial path means it could actually work quite basically.. per path .. 
 - quite a bit of what i created before was just an ideal and the machinations around kernel and os are annoying..  it should be possible to set this up quite easy i think.. once enough friendly and cool stuff is added to make it worht dedicating an old machine too
