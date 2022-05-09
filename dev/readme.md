@@ -1,5 +1,5 @@
 #### spikes
-- modification to ecmascript
+- modification to ecmascript - within the editor
 - what we dont need.. 
 - we only use what we need... the core e/ system and proc/ lib/ discludes... code and is not ecosystem style. green as possible.
 - almost everything is pretty low level which is really annoying.. 
