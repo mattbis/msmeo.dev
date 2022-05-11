@@ -1,0 +1,1 @@
+- recap: these are as described before how you use collections or default commands.. since its very configurable.
