@@ -1,1 +1,1 @@
-
+- recap: as described before: it actually works via cloning itself in modes.. except the cloneNee at this level is preBaked... you can however run it entirely live.. 
