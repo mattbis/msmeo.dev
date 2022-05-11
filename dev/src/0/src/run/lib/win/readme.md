@@ -1,1 +1,1 @@
-- doing windows properly means tailoring a bit of stuff - since they have tons of apis - ands its all in their but you gotta play by their rules etc
+- doing windows properly means tailoring a bit of stuff - since they have tons of apis - ands its all in there but you gotta play by their rules etc
