@@ -1,2 +1,1 @@
--- part of bultins ( it does some basic stuff so you dont really need too many other exes or wahtever )
--- using the meta you can really tailor many constructs - build - or is this actually imports of 3p into core? i forgot
+imports of 3p into core? i forgot
