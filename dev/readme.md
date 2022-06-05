@@ -1,1 +1,1 @@
-- nobody does anything right - since i have no interesti n competing with anybody - this is basically the most basic tool possibe... since i need to use it 
+-i have no interesti n competing with anybody - this is basically the most basic tool possibe... since i need to use it 
